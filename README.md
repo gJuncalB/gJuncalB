@@ -1,16 +1,36 @@
-## Hi there 👋
+👋 Olá, eu sou o Gabriel Juncal Beneducci!
 
-<!--
-**gJuncalB/gJuncalB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Estudante e entusiasta de **Tecnologia**, em constante evolução na área de **Desenvolvimento**.  
+💻 Focado em aprender, praticar e construir soluções com código limpo e eficiente.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que utilizo
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS"/>
+</div>
+
+---
+
+## 🌐 Conecte-se comigo
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/gabriel-juncal-beneducci-670b60190/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## 📫 Contato
+
+📧 **Email:** [gjbeneducci@gmail.com](mailto:gjbeneducci@gmail.com)
+
+---
+
+✨ *Sempre aprendendo, sempre evoluindo.*
