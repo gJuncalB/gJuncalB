@@ -1,36 +1,40 @@
-👋 Olá, eu sou o Gabriel Juncal Beneducci!
+<h1 align="center">
+  👋 Olá, eu sou o Gabriel Juncal Beneducci
+</h1>
 
-🎯 Estudante e entusiasta de **Tecnologia**, em constante evolução na área de **Desenvolvimento**.  
-💻 Focado em aprender, praticar e construir soluções com código limpo e eficiente.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Estudante+de+Tecnologia;Futuro+Desenvolvedor;Apaixonado+por+Código;Sempre+Aprendendo+🚀" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 Tecnologias que utilizo
+## 🚀 Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS"/>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
 </div>
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Vamos nos conectar
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/gabriel-juncal-beneducci-670b60190/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:gjbeneducci@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
 ---
 
-## 📫 Contato
+<p align="center">
+  ⚡ <strong>Transformando curiosidade em código todos os dias.</strong> ⚡
+</p>
 
-📧 **Email:** [gjbeneducci@gmail.com](mailto:gjbeneducci@gmail.com)
-
----
-
-✨ *Sempre aprendendo, sempre evoluindo.*
